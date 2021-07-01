@@ -1,16 +1,9 @@
 {
-  "items": [
+  "banner": [
     {
-      "title": "Seu Direito Digital 29-08-2019",
-      "pubDate": "2019-08-30 01:08:00",
-      "link": "https://olhardigital.com.br/video/seu-direito-digital-29-08-2019/89764",
-      "guid": "https://olhardigital.com.br/video/seu-direito-digital-29-08-2019/89764",
-      "author": "",
-      "thumbnail": "https://img.olhardigital.com.br/uploads/acervo_imagens/2019/06/r4x3/20190613102329_860_645_-_direito_digital.jpg",
-      "description": "\n<img align=\"left\" hspace=\"8\" src=\"https://img.olhardigital.com.br/uploads/acervo_imagens/2019/06/r4x3/20190613102329_860_645_-_direito_digital.jpg\"><br>Confira as dicas sobre os seus direitos na internet na coluna desta semana.",
-      "content": "\n<img align=\"left\" hspace=\"8\" src=\"https://img.olhardigital.com.br/uploads/acervo_imagens/2019/06/r4x3/20190613102329_860_645_-_direito_digital.jpg\"><br>Confira as dicas sobre os seus direitos na internet na coluna desta semana.",
-      "enclosure": {},
-      "categories": []
+      "imageUrl":"https://via.placeholder.com/1080x400/4444/ffffff?text=Dynamic%20Banner%20View",
+      "imageUrlSmall":"https://via.placeholder.com/1080x200/4444/ffffff?text=Dynamic%20Banner%20View",
+      "deeplink":"next://investimentos"
     }
   ]
 }
