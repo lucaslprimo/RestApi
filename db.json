@@ -1,8 +1,8 @@
 {
   "banner": 
     {
-      "imageUrl":"https://via.placeholder.com/1080x400/4444/ffffff?text=Dynamic%20Banner%20View",
-      "imageUrlSmall":"https://via.placeholder.com/1080x200/4444/ffffff?text=Dynamic%20Banner%20View",
+      "imageUrl":"https://via.placeholder.com/1080x400/4444/ffffff.png?text=Dynamic%20Banner%20View",
+      "imageUrlSmall":"https://via.placeholder.com/1080x400.png",
       "deeplink":"next://investimentos"
     }
 }
